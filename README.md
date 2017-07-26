@@ -6,3 +6,4 @@ Tchnologies are:
 front end angularjs.
 Data base MSSQL
 create and change Data upload From Excel Sheet(Products,User & Customer) or MSSQL.
+It will easyly installable and configurable.
